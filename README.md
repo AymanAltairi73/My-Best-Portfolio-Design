@@ -14,13 +14,6 @@ Key Features:
 5. Contact Form: The website features a simple contact form that enables visitors to reach out for inquiries or collaboration opportunities. Although the form does not include backend functionality in this version, it is designed for future integration.
 
 6. Custom Styling: CSS is used to create a visually appealing design with a cohesive color palette and typography that reflects my personal brand.
-
-<<<<<<< HEAD
-<<<<<<< HEAD
+ 
 Overall, "My Best Portfolio Website" serves as a digital resume that not only displays my technical skills but also reflects my design sensibilities. It is an ongoing project that I plan to update regularly as I acquire new skills and complete new projects. This portfolio exemplifies my commitment to continuous learning and improvement in the field of web development.
-=======
-Overall, "My Best Portfolio Website" serves as a digital resume that not only displays my technical skills but also reflects my design sensibilities. It is an ongoing project that I plan to update regularly as I acquire new skills and complete new projects. This portfolio exemplifies my commitment to continuous learning and improvement in the field of web development.
->>>>>>> eb6c9abf18814ce8ff9ba60a370922215d61fe4c
-=======
-Overall, "My Best Portfolio Website" serves as a digital resume that not only displays my technical skills but also reflects my design sensibilities. It is an ongoing project that I plan to update regularly as I acquire new skills and complete new projects. This portfolio exemplifies my commitment to continuous learning and improvement in the field of web development.
->>>>>>> eb6c9abf18814ce8ff9ba60a370922215d61fe4c
+ 
