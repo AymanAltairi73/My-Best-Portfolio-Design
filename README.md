@@ -17,8 +17,4 @@ Key Features:
 <<<<<<< HEAD
 
 Overall, "My Best Portfolio Website" serves as a digital resume that not only displays my technical skills but also reflects my design sensibilities. It is an ongoing project that I plan to update regularly as I acquire new skills and complete new projects. This portfolio exemplifies my commitment to continuous learning and improvement in the field of web development.
-=======
  
-Overall, "My Best Portfolio Website" serves as a digital resume that not only displays my technical skills but also reflects my design sensibilities. It is an ongoing project that I plan to update regularly as I acquire new skills and complete new projects. This portfolio exemplifies my commitment to continuous learning and improvement in the field of web development.
- 
->>>>>>> 68f5bb40afe4e78c67fd9f1b0e7949c7578bfc86
